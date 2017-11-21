@@ -34,6 +34,25 @@ public class Country
         this.name = name;
     }
 
+    @Override
+    /**
+     *  Overwriting of the Object class' equals method, so that two Countries are the same, only if their names'
+     *  are the same.
+     */
+    public boolean equals(Object otherCo ) {
+
+        if (this == otherCo) {
+            return true;
+        }
+        if (otherCo == null) {
+            return false;
+        }
+        if (getClass() != otherCo.getClass()) {
+            return false;
+        }
+        Country other = (Country)otherCo;
+        return name.equals(other.name);
+    }
     /**
      * Returns a reference to the game which the country is a part of.
      * @return game Game.
