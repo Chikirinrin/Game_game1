@@ -2,6 +2,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import java.util.*;
+import java.util.concurrent.ExecutionException;
 
 import static org.junit.Assert.*;
 
@@ -207,6 +208,13 @@ public class CountryTest {
         Map<City, List<Road>> network1 = country1.getNetwork();
         assertEquals(country1.getRoads(cityA),network1.get(cityA));
         assertEquals(country1.getRoads(cityE), Collections.emptyList());
+    }
+    @Test
+    public void hashCodeTest() throws Exception{
+        assertNotEquals(country1.hashCode(),country2.hashCode());
+        assertNotEquals(country2.hashCode(),country1.hashCode());
+        assertEquals(country1.hashCode(),country1.getName().hashCode()*17);
+        assertEquals(country2.hashCode(),country2.getName().hashCode()*17);
     }
 
 }

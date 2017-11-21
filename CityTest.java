@@ -90,7 +90,14 @@ public class CityTest {
             assertEquals(cityA.getValue(), 80-bonus);
             cityA.reset();
         }
+    }
 
+    @Test
+    public void hashCodeTestCity() throws Exception{
+        assertNotEquals(cityA.hashCode(),cityB.hashCode());
+        assertNotEquals(cityB.hashCode(),cityA.hashCode());
+        assertEquals(cityA.hashCode(),cityA.getName().hashCode()*19);
+        assertEquals(cityB.hashCode(),cityB.getName().hashCode()*19);
     }
 
 }

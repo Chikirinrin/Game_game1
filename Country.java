@@ -193,6 +193,7 @@ public class Country
         return position(from);
     }
 
+     @Override
     public int hashCode(){
         return 17*name.hashCode();
     }
