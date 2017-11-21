@@ -1,0 +1,3978 @@
+t=0
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		0
+		0
+		Bergen
+		Bergen
+	Random Player
+		0
+		0
+		Kirkenes
+		Kirkenes
+	Smart Player
+		0
+		0
+		Luleå
+		Luleå
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	175
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	70
+		Narvik	150
+		Oslo	125
+		Stavanger	200
+		Tromsø	180
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	120
+		Torsby	40
+		Umeå	75
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=1
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		0
+		2
+		Bergen
+		Myrdal
+	Random Player
+		0
+		4
+		Kirkenes
+		Tromsø
+	Smart Player
+		0
+		3
+		Luleå
+		Umeå
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	175
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	70
+		Narvik	150
+		Oslo	125
+		Stavanger	200
+		Tromsø	180
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	120
+		Torsby	40
+		Umeå	75
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=2
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		0
+		1
+		Bergen
+		Myrdal
+	Random Player
+		0
+		3
+		Kirkenes
+		Tromsø
+	Smart Player
+		0
+		2
+		Luleå
+		Umeå
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	175
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	70
+		Narvik	150
+		Oslo	125
+		Stavanger	200
+		Tromsø	180
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	120
+		Torsby	40
+		Umeå	75
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=3
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		54
+		2
+		Myrdal
+		Bergen
+	Random Player
+		0
+		2
+		Kirkenes
+		Tromsø
+	Smart Player
+		0
+		1
+		Luleå
+		Umeå
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	175
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	16
+		Narvik	150
+		Oslo	125
+		Stavanger	200
+		Tromsø	180
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	120
+		Torsby	40
+		Umeå	75
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=4
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		54
+		1
+		Myrdal
+		Bergen
+	Random Player
+		0
+		1
+		Kirkenes
+		Tromsø
+	Smart Player
+		61
+		2
+		Umeå
+		Sundsvall
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	175
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	16
+		Narvik	150
+		Oslo	125
+		Stavanger	200
+		Tromsø	180
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	120
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=5
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		207
+		2
+		Bergen
+		Myrdal
+	Random Player
+		14
+		2
+		Tromsø
+		Narvik
+	Smart Player
+		61
+		1
+		Umeå
+		Sundsvall
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	16
+		Narvik	150
+		Oslo	125
+		Stavanger	200
+		Tromsø	166
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	120
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=6
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		207
+		1
+		Bergen
+		Myrdal
+	Random Player
+		14
+		1
+		Tromsø
+		Narvik
+	Smart Player
+		142
+		4
+		Sundsvall
+		Gävle
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	16
+		Narvik	150
+		Oslo	125
+		Stavanger	200
+		Tromsø	166
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=7
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		211
+		3
+		Myrdal
+		Oslo
+	Random Player
+		79
+		2
+		Narvik
+		Tromsø
+	Smart Player
+		142
+		3
+		Sundsvall
+		Gävle
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	12
+		Narvik	85
+		Oslo	125
+		Stavanger	200
+		Tromsø	166
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=8
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		211
+		2
+		Myrdal
+		Oslo
+	Random Player
+		79
+		1
+		Narvik
+		Tromsø
+	Smart Player
+		142
+		2
+		Sundsvall
+		Gävle
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	12
+		Narvik	85
+		Oslo	125
+		Stavanger	200
+		Tromsø	166
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=9
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		211
+		1
+		Myrdal
+		Oslo
+	Random Player
+		214
+		2
+		Tromsø
+		Narvik
+	Smart Player
+		142
+		1
+		Sundsvall
+		Gävle
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	12
+		Narvik	85
+		Oslo	125
+		Stavanger	200
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	90
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=10
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		312
+		4
+		Oslo
+		Stavanger
+	Random Player
+		214
+		1
+		Tromsø
+		Narvik
+	Smart Player
+		148
+		2
+		Gävle
+		Falun
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	12
+		Narvik	85
+		Oslo	24
+		Stavanger	200
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=11
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		312
+		3
+		Oslo
+		Stavanger
+	Random Player
+		299
+		3
+		Narvik
+		Kiruna
+	Smart Player
+		148
+		1
+		Gävle
+		Falun
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	200
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	70
+		Gällivare	100
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=12
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		312
+		2
+		Oslo
+		Stavanger
+	Random Player
+		299
+		2
+		Narvik
+		Kiruna
+	Smart Player
+		171
+		3
+		Falun
+		Örebro
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	200
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	100
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=13
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		312
+		1
+		Oslo
+		Stavanger
+	Random Player
+		299
+		1
+		Narvik
+		Kiruna
+	Smart Player
+		171
+		2
+		Falun
+		Örebro
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	200
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	100
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	80
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=14
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		415
+		2
+		Stavanger
+		Kristiansand
+	Random Player
+		359
+		2
+		Kiruna
+		Gällivare
+	Smart Player
+		171
+		1
+		Falun
+		Örebro
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	97
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	100
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	130
+		Östersund	50
+t=15
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		415
+		1
+		Stavanger
+		Kristiansand
+	Random Player
+		359
+		1
+		Kiruna
+		Gällivare
+	Smart Player
+		284
+		3
+		Örebro
+		Stockholm
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	50
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	97
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	100
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	17
+		Östersund	50
+t=16
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		417
+		2
+		Kristiansand
+		Stavanger
+	Random Player
+		423
+		12
+		Gällivare
+		Östersund
+	Smart Player
+		284
+		2
+		Örebro
+		Stockholm
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	48
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	97
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	17
+		Östersund	50
+t=17
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		417
+		1
+		Kristiansand
+		Stavanger
+	Random Player
+		423
+		11
+		Gällivare
+		Östersund
+	Smart Player
+		284
+		1
+		Örebro
+		Stockholm
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	48
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	97
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	190
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	17
+		Östersund	50
+t=18
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		484
+		2
+		Stavanger
+		Kristiansand
+	Random Player
+		423
+		10
+		Gällivare
+		Östersund
+	Smart Player
+		456
+		3
+		Stockholm
+		Örebro
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	48
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	17
+		Östersund	50
+t=19
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		484
+		1
+		Stavanger
+		Kristiansand
+	Random Player
+		423
+		9
+		Gällivare
+		Östersund
+	Smart Player
+		456
+		2
+		Stockholm
+		Örebro
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	48
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	17
+		Östersund	50
+t=20
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		504
+		3
+		Kristiansand
+		Aalborg
+	Random Player
+		423
+		8
+		Gällivare
+		Östersund
+	Smart Player
+		456
+		1
+		Stockholm
+		Örebro
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	17
+		Östersund	50
+t=21
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		504
+		2
+		Kristiansand
+		Aalborg
+	Random Player
+		423
+		7
+		Gällivare
+		Östersund
+	Smart Player
+		459
+		2
+		Örebro
+		Karlstad
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	50
+t=22
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		504
+		1
+		Kristiansand
+		Aalborg
+	Random Player
+		423
+		6
+		Gällivare
+		Östersund
+	Smart Player
+		459
+		1
+		Örebro
+		Karlstad
+	cities
+		Aalborg	80
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	85
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	50
+t=23
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		574
+		2
+		Aalborg
+		Aarhus
+	Random Player
+		423
+		5
+		Gällivare
+		Östersund
+	Smart Player
+		485
+		3
+		Karlstad
+		Strömstad
+	cities
+		Aalborg	10
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	50
+t=24
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		574
+		1
+		Aalborg
+		Aarhus
+	Random Player
+		423
+		4
+		Gällivare
+		Östersund
+	Smart Player
+		485
+		2
+		Karlstad
+		Strömstad
+	cities
+		Aalborg	10
+		Aarhus	250
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	50
+t=25
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		689
+		2
+		Aarhus
+		Odense
+	Random Player
+		423
+		3
+		Gällivare
+		Östersund
+	Smart Player
+		485
+		1
+		Karlstad
+		Strömstad
+	cities
+		Aalborg	10
+		Aarhus	135
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	120
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	50
+t=26
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		689
+		1
+		Aarhus
+		Odense
+	Random Player
+		423
+		2
+		Gällivare
+		Östersund
+	Smart Player
+		587
+		1
+		Strömstad
+		Göteborg
+	cities
+		Aalborg	10
+		Aarhus	135
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	70
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	90
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	50
+t=27
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		696
+		2
+		Odense
+		Aarhus
+	Random Player
+		423
+		1
+		Gällivare
+		Östersund
+	Smart Player
+		610
+		3
+		Göteborg
+		Jönköping
+	cities
+		Aalborg	10
+		Aarhus	135
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	63
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	50
+t=28
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		696
+		1
+		Odense
+		Aarhus
+	Random Player
+		471
+		3
+		Östersund
+		Trondheim
+	Smart Player
+		610
+		2
+		Göteborg
+		Jönköping
+	cities
+		Aalborg	10
+		Aarhus	135
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	63
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=29
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		745
+		2
+		Aarhus
+		Herning
+	Random Player
+		471
+		2
+		Östersund
+		Trondheim
+	Smart Player
+		610
+		1
+		Göteborg
+		Jönköping
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	63
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	110
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=30
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		745
+		1
+		Aarhus
+		Herning
+	Random Player
+		471
+		1
+		Östersund
+		Trondheim
+	Smart Player
+		619
+		3
+		Jönköping
+		Linköping
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	65
+		Nykøbing	50
+		Odense	63
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	140
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=31
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		798
+		2
+		Herning
+		Struer
+	Random Player
+		564
+		2
+		Trondheim
+		Lillehammer
+	Smart Player
+		619
+		2
+		Jönköping
+		Linköping
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	12
+		Nykøbing	50
+		Odense	63
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=32
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		798
+		1
+		Herning
+		Struer
+	Random Player
+		564
+		1
+		Trondheim
+		Lillehammer
+	Smart Player
+		619
+		1
+		Jönköping
+		Linköping
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	12
+		Nykøbing	50
+		Odense	63
+		Struer	100
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	110
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	80
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=33
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		806
+		2
+		Struer
+		Herning
+	Random Player
+		639
+		3
+		Lillehammer
+		Oslo
+	Smart Player
+		671
+		3
+		Linköping
+		Stockholm
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	12
+		Nykøbing	50
+		Odense	63
+		Struer	92
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	35
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=34
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		806
+		1
+		Struer
+		Herning
+	Random Player
+		639
+		2
+		Lillehammer
+		Oslo
+	Smart Player
+		671
+		2
+		Linköping
+		Stockholm
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	12
+		Nykøbing	50
+		Odense	63
+		Struer	92
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	35
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=35
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		816
+		2
+		Herning
+		Struer
+	Random Player
+		639
+		1
+		Lillehammer
+		Oslo
+	Smart Player
+		671
+		1
+		Linköping
+		Stockholm
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	63
+		Struer	92
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	35
+		Myrdal	12
+		Narvik	0
+		Oslo	24
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	18
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=36
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		816
+		1
+		Herning
+		Struer
+	Random Player
+		648
+		3
+		Oslo
+		Lillehammer
+	Smart Player
+		684
+		8
+		Stockholm
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	63
+		Struer	92
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	35
+		Myrdal	12
+		Narvik	0
+		Oslo	15
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=37
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		831
+		2
+		Struer
+		Herning
+	Random Player
+		648
+		2
+		Oslo
+		Lillehammer
+	Smart Player
+		684
+		7
+		Stockholm
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	63
+		Struer	77
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	35
+		Myrdal	12
+		Narvik	0
+		Oslo	15
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=38
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		831
+		1
+		Struer
+		Herning
+	Random Player
+		648
+		1
+		Oslo
+		Lillehammer
+	Smart Player
+		684
+		6
+		Stockholm
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	63
+		Struer	77
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	35
+		Myrdal	12
+		Narvik	0
+		Oslo	15
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=39
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		831
+		2
+		Herning
+		Aarhus
+	Random Player
+		681
+		3
+		Lillehammer
+		Oslo
+	Smart Player
+		684
+		5
+		Stockholm
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	63
+		Struer	77
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	15
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=40
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		831
+		1
+		Herning
+		Aarhus
+	Random Player
+		681
+		2
+		Lillehammer
+		Oslo
+	Smart Player
+		684
+		4
+		Stockholm
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	86
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	63
+		Struer	77
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	15
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=41
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		917
+		2
+		Aarhus
+		Odense
+	Random Player
+		681
+		1
+		Lillehammer
+		Oslo
+	Smart Player
+		684
+		3
+		Stockholm
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	63
+		Struer	77
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	15
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=42
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		917
+		1
+		Aarhus
+		Odense
+	Random Player
+		687
+		2
+		Oslo
+		Karlstad
+	Smart Player
+		684
+		2
+		Stockholm
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	63
+		Struer	77
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	9
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=43
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		978
+		3
+		Odense
+		Esbjerg
+	Random Player
+		687
+		1
+		Oslo
+		Karlstad
+	Smart Player
+		684
+		1
+		Stockholm
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	2
+		Struer	77
+		Helsinki	210
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	9
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	59
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=44
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		978
+		2
+		Odense
+		Esbjerg
+	Random Player
+		745
+		2
+		Karlstad
+		Oslo
+	Smart Player
+		740
+		2
+		Helsinki
+		Turku
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	2
+		Struer	77
+		Helsinki	154
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	9
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	1
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=45
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		978
+		1
+		Odense
+		Esbjerg
+	Random Player
+		745
+		1
+		Karlstad
+		Oslo
+	Smart Player
+		740
+		1
+		Helsinki
+		Turku
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	125
+		Herning	2
+		Nykøbing	50
+		Odense	2
+		Struer	77
+		Helsinki	154
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	70
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	9
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	1
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=46
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		1041
+		3
+		Esbjerg
+		Herning
+	Random Player
+		752
+		3
+		Oslo
+		Lillehammer
+	Smart Player
+		759
+		2
+		Turku
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	62
+		Herning	2
+		Nykøbing	50
+		Odense	2
+		Struer	77
+		Helsinki	154
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	51
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	2
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	1
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=47
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		1041
+		2
+		Esbjerg
+		Herning
+	Random Player
+		752
+		2
+		Oslo
+		Lillehammer
+	Smart Player
+		759
+		1
+		Turku
+		Helsinki
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	62
+		Herning	2
+		Nykøbing	50
+		Odense	2
+		Struer	77
+		Helsinki	154
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	51
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	2
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	1
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=48
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		1041
+		1
+		Esbjerg
+		Herning
+	Random Player
+		752
+		1
+		Oslo
+		Lillehammer
+	Smart Player
+		913
+		2
+		Helsinki
+		Tampere
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	62
+		Herning	2
+		Nykøbing	50
+		Odense	2
+		Struer	77
+		Helsinki	0
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	51
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	2
+		Myrdal	12
+		Narvik	0
+		Oslo	2
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	1
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=49
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		1042
+		2
+		Herning
+		Struer
+	Random Player
+		754
+		3
+		Lillehammer
+		Dombås
+	Smart Player
+		913
+		1
+		Helsinki
+		Tampere
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	62
+		Herning	1
+		Nykøbing	50
+		Odense	2
+		Struer	77
+		Helsinki	0
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	120
+		Turku	51
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	0
+		Myrdal	12
+		Narvik	0
+		Oslo	2
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	1
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2
+t=50
+	GUI Player
+		0
+		0
+		Vaasa
+		Vaasa
+	Greedy Player
+		1042
+		1
+		Herning
+		Struer
+	Random Player
+		754
+		2
+		Lillehammer
+		Dombås
+	Smart Player
+		970
+		0
+		Tampere
+		Tampere
+	cities
+		Aalborg	10
+		Aarhus	0
+		Copenhagen	100
+		Esbjerg	62
+		Herning	1
+		Nykøbing	50
+		Odense	2
+		Struer	77
+		Helsinki	0
+		Kermi	40
+		Kokkola	85
+		Kuopio	50
+		Oulu	70
+		Pohjanmaa	100
+		Pori	30
+		Rovaniemi	30
+		Tampere	63
+		Turku	51
+		Vaasa	50
+		Bergen	22
+		Bodø	40
+		Dombås	110
+		Kirkenes	200
+		Kristiansand	28
+		Lillehammer	0
+		Myrdal	12
+		Narvik	0
+		Oslo	2
+		Stavanger	30
+		Tromsø	31
+		Trondheim	47
+		Åndalsnes	150
+		Falun	47
+		Gällivare	36
+		Gävle	84
+		Göteborg	67
+		Helsingborg	100
+		Jönköping	101
+		Kalmar	90
+		Karlskrona	75
+		Karlstad	1
+		Kiruna	20
+		Kvillsfors	100
+		Linköping	28
+		Luleå	95
+		Malmö	95
+		Mora	50
+		Stockholm	5
+		Strömstad	18
+		Sundsvall	39
+		Torsby	40
+		Umeå	14
+		Uppsala	60
+		Visby	90
+		Örebro	14
+		Östersund	2

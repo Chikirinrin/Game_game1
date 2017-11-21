@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Road
+comment0.text=\r\n\ This\ Class\ represents\ a\ road\ between\ two\ cities.\ A\ road\ has\r\n\ References\ to\ the\ two\ City-objects\ it\ connects.\ Furthermore\ it\r\n\ has\ a\ length\ which\ is\ represented\ by\ an\ integer,\ which\ provides\r\n\ information\ about\ how\ long\ it\ takes\ to\ travel\ between\ the\ cities.\r\n\r\n\r\n\ @author\ Lasse\ Sode\ &\ Timm\ Ask\u00F8e\r\n\ @version\ 1.0.0\r\n
+comment1.params=from\ to\ length
+comment1.target=Road(City,\ City,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Road\r\n\ @param\ from\ The\ City\ the\ road\ is\ going\ from.\r\n\ @param\ to\ The\ City\ the\ road\ is\ going\ to.\r\n\ @param\ length\ The\ time\ it\ takes\ to\ travel\ the\ road.\r\n
+comment2.params=
+comment2.target=City\ getFrom()
+comment2.text=\r\n\ Returns\ a\ reference\ to\ the\ City\ where\ this\ Road\ starts.\r\n\ @return\ from\ city.\r\n
+comment3.params=
+comment3.target=City\ getTo()
+comment3.text=\r\n\ Return\ a\ reference\ to\ the\ City\ where\ this\ Road\ ends.\r\n\ @return\ to\ city\r\n
+comment4.params=
+comment4.target=int\ getLength()
+comment4.text=\r\n\ Returns\ a\ reference\ to\ the\ length\ of\ the\ Road.\r\n\ @return\ length\ integer.\r\n
+comment5.params=road
+comment5.target=int\ compareTo(Road)
+comment5.text=\r\n\ Compares\ the\ Road's\ from\ and\ to\ fields,\ and\ sorts\ in\r\n\ Alphabetical\ order\ after\ the\ name\ of\ the\ cities\ where\r\n\ the\ Roads\ starts.\ If\ two\ roads\ starts\ in\ the\ same\ city,\ it'll\r\n\ sort\ after\ the\ Roads'\ destination.\r\n\ @param\ road\ The\ road\ object\ being\ compared.\r\n\ @return\ Integer,\ for\ sorting.\r\n
+numComments=6

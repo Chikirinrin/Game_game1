@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SmartPlayer
+comment0.text=\r\n\ A\ smart\ AI\ player\ which\ uses\ a\ depth-first\ search\ to\ determine\ the\ optimal\ PlayerPath.\r\n\ @author\ Nikolaj\ Ignatieff\ Schwartzbach\r\n\ @version\ 1.0.0\r\n
+comment1.params=pos
+comment1.target=SmartPlayer(Position)
+comment1.text=\r\n\ Instantiates\ a\ new\ SmartPlayer\ with\ the\ specified\ position.\r\n\ @param\ pos\ The\ position\ of\ this\ player.\r\n
+comment2.params=
+comment2.target=void\ step()
+comment3.params=c\ n
+comment3.target=City\ maximizeValue(City,\ int)
+comment3.text=\r\n\ Finds\ the\ city\ which\ in\ the\ long\ run\ generates\ most\ value.\r\n\ Performs\ a\ DFS\ of\ the\ space\ of\ all\ cities\ (depth\ limited\ by\ n).\r\n\ @param\ c\ The\ city\ to\ travel\ fro\r\n\ @param\ n\ The\ number\ of\ steps\ remaining\r\n\ @return\ The\ city\ to\ travel\ to\ now.\r\n
+comment4.params=visits\ c\ i
+comment4.target=PlayerPath\ maximizeValue(java.util.HashMap,\ City,\ int)
+comment4.text=\r\n\ Finds\ the\ city\ which\ in\ the\ long\ run\ generates\ most\ value.\r\n\ Performs\ a\ DFS\ of\ the\ space\ of\ all\ cities\ (depth\ limited\ by\ n).\r\n\ Takes\ into\ account\ that\ cities\ lose\ value\ when\ visited.\r\n\ @param\ visits\ How\ many\ times\ each\ city\ is\ visited.\r\n\ @param\ c\ The\ city\ to\ travel\ from\r\n\ @param\ n\ The\ number\ of\ steps\ remaining\r\n\ @return\ The\ path\ which\ provides\ maximum\ value.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.awt.Color\ getColor()
+numComments=7

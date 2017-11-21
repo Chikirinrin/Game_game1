@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=CountryTest
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment10.params=
+comment10.target=void\ getCity()
+comment11.params=
+comment11.target=void\ getRoads()
+comment2.params=
+comment2.target=void\ Country()
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=
+comment4.target=void\ bonus()
+comment5.params=
+comment5.target=void\ addRoads()
+comment6.params=
+comment6.target=void\ position()
+comment7.params=
+comment7.target=void\ readyToTravel()
+comment8.params=
+comment8.target=void\ setGame()
+comment9.params=
+comment9.target=void\ getCities()
+numComments=12

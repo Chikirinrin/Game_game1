@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RandomPlayer
+comment0.text=\r\n\ An\ AI\ player\ which\ randomly\ chooses\ its\ path.\r\n\ @author\ Nikolaj\ Ignatieff\ Schwartzbach\r\n\ @version\ 1.0.0\r\n\r\n
+comment1.params=pos
+comment1.target=RandomPlayer(Position)
+comment1.text=\r\n\ Instantiates\ a\ new\ RandomPlayer\ with\ the\ specified\ position.\r\n\ @param\ pos\ The\ position\ of\ this\ player.\r\n
+comment2.params=
+comment2.target=void\ step()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+numComments=5

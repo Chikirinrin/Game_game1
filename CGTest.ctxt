@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CGTest
+comment0.text=\r\n\ This\ class\ provides\ a\ test\ fixture\ to\ use\ for\ the\ 'Computer\ Game'\ project,\ dIntProg.\r\n\ It\ creates\ a\ simple\ network\ of\ two\ countries\ and\ seven\ cities,\ which\ can\ be\ used\ for\ automated\ testing\ using\ JUnit.\r\n\r\n\ Alleviates\ the\ problem\ of\ creating\ a\ Map<City,\ List<Road>>\ yourself.\r\n\r\n\ Simply\ drag\ this\ file\ into\ your\ BlueJ-project.\ \r\n\ You\ can\ then\ right-click\ on\ this\ class\ and\ choose\ 'Test\ Fixture\ to\ Object\ Bench'\ to\ create\ the\ necessary\ test\ objects.\r\n\r\n\ @author\ \ Nikolaj\ Ignatieff\ Schwartzbach\r\n\ @version\ April\ 2017\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+numComments=3

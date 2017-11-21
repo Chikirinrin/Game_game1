@@ -1,0 +1,143 @@
+Denmark
+	#Copenhagen, 100,      162, 554
+	Aarhus, 250,           118, 535
+	Odense, 70,            125, 563
+	|Aalborg, 80,           113, 506
+	Esbjerg, 125,          87, 562
+	Herning, 65,           98, 535
+	Nykøbing, 50,          150, 585
+	Struer, 100,           85, 520
+Norway
+	|Kristiansand, 50,      94, 467
+	Stavanger, 200,        61, 435
+	#Oslo, 125,            141, 406
+	Bergen, 175,           60, 379
+	|Trondheim, 140,        151, 293
+	Bodø, 40,              212, 166
+	Tromsø, 180,            266, 86
+	Kirkenes, 200,         396, 60
+	Lillehammer, 110,      151, 365
+	Myrdal, 70,            97, 384
+	Åndalsnes, 150,        102, 315
+	|Narvik, 150,           254, 118
+	Dombås, 110,           122, 334
+Sweden
+	|Malmö, 95,             182, 552
+	Kalmar, 90,            238, 517
+	Visby, 90,             274, 486
+	Jönköping, 110,        190, 483
+	Göteborg, 90,          162, 485
+	|Karlstad, 85,          188, 437
+	Linköping, 80,         233, 454
+	#Stockholm, 190,       271, 431
+	Gävle, 90,             248, 370
+	Karlskrona, 75,        228, 533
+	Sundsvall, 120,        262, 312
+	|Östersund, 50,         212, 296
+	Umeå, 75,              293, 275
+	|Luleå, 95,             316, 213
+	Helsingborg, 100,      174, 535
+	Strömstad, 120,        155, 454
+	Kvillsfors, 100,       215, 501
+	Örebro, 130,           217, 434
+	Uppsala, 60,           260, 407
+	Torsby, 40,            178, 405
+	Gällivare, 100,        291, 152
+	|Kiruna, 80,            284, 133
+	Mora, 50,              201, 369
+	Falun, 70,             220, 398
+Finland
+	|Kermi, 40,             354, 208
+	Rovaniemi, 30,         363, 180
+	Oulu, 70,              370, 234
+	Kuopio, 50,            420, 302
+	Vaasa, 50,             320, 300
+	Pori, 30,              325, 356
+	Tampere, 120,          359, 353
+	#Helsinki, 210,        382, 396
+	Turku, 70,             337, 395
+	Pohjanmaa, 100,        349, 313
+	Kokkola, 85,           344, 275
+Roads
+	//Borders
+	Oslo, Karlstad, 2
+	Trondheim, Östersund, 3
+	Malmö, Copenhagen, 1
+	Luleå, Kermi, 2
+	Aalborg, Kristiansand, 3
+	Helsinki, Stockholm, 8
+	Narvik, Kiruna, 3
+	
+	//Denmark
+	Copenhagen, Odense, 3
+	Odense, Esbjerg, 3
+	Odense, Aarhus, 2
+	Aalborg, Aarhus, 2
+	Herning, Aarhus, 2
+	Herning, Esbjerg, 3
+	Nykøbing, Copenhagen, 4
+	Struer, Herning, 2
+	
+	//Norway
+	Kristiansand, Oslo, 3
+	Kristiansand, Stavanger, 2
+	Lillehammer, Dombås, 3
+	Dombås, Åndalsnes, 2
+	Dombås, Trondheim, 2
+	Myrdal, Bergen, 2
+	Myrdal, Oslo, 3
+	Oslo, Stavanger, 4
+	Oslo, Lillehammer, 3
+	Lillehammer, Trondheim, 2
+	Bodø, Trondheim, 7
+	Narvik, Tromsø, 2
+	Tromsø, Kirkenes, 4
+	
+	//Sweden
+	Visby, Kalmar, 6
+	Visby, Linköping, 5
+	Jönköping, Linköping, 3
+	Jönköping, Göteborg, 3
+	Karlskrona, Malmö, 3
+	Karlstad, Göteborg, 4
+	Karlstad, Örebro, 2
+	Karlstad, Torsby, 2
+	Örebro, Stockholm, 3
+	Uppsala, Stockholm, 2
+	Uppsala, Gävle, 2
+	Linköping, Stockholm, 3
+	Gävle, Sundsvall, 4
+	Östersund, Sundsvall, 3
+	Kalmar, Linköping, 4
+	Umeå, Sundsvall, 2
+	Umeå, Luleå, 3
+	Luleå, Gällivare, 4
+	Gällivare, Kiruna, 2
+	Falun, Mora, 2
+	Falun, Gävle, 2
+	Falun, Örebro, 3
+	Östersund, Gällivare, 12
+	Helsingborg, Malmö, 1
+	Helsingborg, Jönköping, 3
+	Karlskrona, Kalmar, 1
+	Strömstad, Göteborg, 1
+	Strömstad, Karlstad, 3
+	Kvillsfors, Jönköping, 2
+	Gävle, Östersund, 6
+	
+	//Finland
+	Kermi, Rovaniemi, 2
+	Kermi, Oulu, 2
+	Kuopio, Oulu, 4
+	Kokkola, Oulu, 4
+	Pohjanmaa, Kokkola, 3
+	Vaasa, Pori, 3
+	Vaasa, Pohjanmaa, 2
+	Pohjanmaa, Tampere, 4
+	Turku, Tampere, 2
+	Pori, Tampere, 2
+	Kuopio, Tampere, 4
+	Helsinki, Tampere, 2
+	Pori, Turku, 2
+	Turku, Helsinki, 2
+	Kuopio, Helsinki, 5

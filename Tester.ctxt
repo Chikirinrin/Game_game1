@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Tester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=boolean\ performTest()
+comment2.text=\r\n\ Tests\ whether\ or\ not\ this\ computer\ game\ (probably)\ works.\r\n\ Runs\ a\ game\ with\ a\ predetermined\ seed,\ and\ checks\ if\ all\ values\ match\ with\ the\ expected\ values.\r\n\ Will\ print\ errors\ to\ System.out.\r\n\ @return\ Returns\ true\ if\ the\ implementation\ passes\ the\ test,\ and\ false\ otherwise.\r\n
+numComments=3
