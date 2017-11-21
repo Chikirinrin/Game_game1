@@ -24,27 +24,6 @@ public class City implements Comparable<City>
         this.country = country;
     }
 
-    @Override
-    /**
-     * Overwriting of the Object class' equals method, so that two cities are the same, only if their name and countries
-     * are the same.
-     * @param otherC The City object which is being compared.
-     * @return A boolean, true if they equal eachother, false if not.
-     */
-    public boolean equals(Object otherC){
-        if(this == otherC){
-            return true;
-        }
-        if(otherC == null){
-            return false;
-        }
-        if(getClass()!= otherC.getClass()){
-            return false;
-        }
-        City city = (City) otherC;
-        return name.equals(city.name) && country == city.country;
-    }
-
     /** Returns the name of the city *
      * @return String name
      */
@@ -96,7 +75,35 @@ public class City implements Comparable<City>
         value -= b;
         return b;
     }
+
+    /**
+     *
+     * @return
+     */
     public int hashCode(){
         return 19*name.hashCode();
     }
+
+    @Override
+    /**
+     * Overwriting of the Object class' equals method, so that two cities are the same, only if their name and countries
+     * are the same.
+     * @param otherC The City object which is being compared.
+     * @return A boolean, true if they equal eachother, false if not.
+     */
+    public boolean equals(Object otherC){
+        if(this == otherC){
+            return true;
+        }
+        if(otherC == null){
+            return false;
+        }
+        if(getClass()!= otherC.getClass()){
+            return false;
+        }
+        City city = (City) otherC;
+        return name.equals(city.name) && country == city.country;
+    }
+
+
 }

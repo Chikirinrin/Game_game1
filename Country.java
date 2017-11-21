@@ -34,25 +34,6 @@ public class Country
         this.name = name;
     }
 
-    @Override
-    /**
-     *  Overwriting of the Object class' equals method, so that two Countries are the same, only if their names'
-     *  are the same.
-     */
-    public boolean equals(Object otherCo ) {
-
-        if (this == otherCo) {
-            return true;
-        }
-        if (otherCo == null) {
-            return false;
-        }
-        if (getClass() != otherCo.getClass()) {
-            return false;
-        }
-        Country other = (Country)otherCo;
-        return name.equals(other.name);
-    }
     /**
      * Returns a reference to the game which the country is a part of.
      * @return game Game.
@@ -60,7 +41,6 @@ public class Country
     public Game getGame(){
         return game;
     }
-
     /**
      * Mutator method which sets which game the country belongs in.
      * @param game the game which the country should be a part of.
@@ -200,10 +180,10 @@ public class Country
      * @return a Position object.
      */
     public Position readyToTravel(City from, City to){
-        if (from.equals(to)){ 
+        if (from.equals(to)){
             return position(from);
         }
-        
+
         for (Road road : getRoads(from)) {
             if (road.getTo().equals(to)) {
                 return new Position(from, to, road.getLength());
@@ -215,6 +195,28 @@ public class Country
      @Override
     public int hashCode(){
         return 17*name.hashCode();
+    }
+
+    @Override
+    /**
+     *  Overwriting of the Object class' equals method, so that two Countries are the same, only if their names'
+     *  are the same.
+     *  @param The other country/object which is being compared.
+     *  @return A boolean, true if they equal eachother, false if not.
+     */
+    public boolean equals(Object otherCo ) {
+
+        if (this == otherCo) {
+            return true;
+        }
+        if (otherCo == null) {
+            return false;
+        }
+        if (getClass() != otherCo.getClass()) {
+            return false;
+        }
+        Country other = (Country)otherCo;
+        return name.equals(other.name);
     }
 }
 

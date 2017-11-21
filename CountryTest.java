@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 public class CountryTest {
     private Game game;
-    private Country country1, country2;
+    private Country country1, country2, country3;
     private City cityA, cityB, cityC, cityD, cityE, cityF, cityG;
     private Map<City,List<Road>> network1, network2;
     /**
@@ -26,8 +26,10 @@ public class CountryTest {
         // Create countries
         country1 = new Country("Country 1", network1);
         country2 = new Country("Country 2", network2);
+        country3 = new Country("Country 1", network2);
         country1.setGame(game);
         country2.setGame(game);
+        country3.setGame(game);
 
         // Create Cities
         cityA = new City("City A", 80, country1);
@@ -209,6 +211,17 @@ public class CountryTest {
         assertEquals(country1.getRoads(cityA),network1.get(cityA));
         assertEquals(country1.getRoads(cityE), Collections.emptyList());
     }
+
+    @Test
+    public void equals(){
+        assertTrue(country1.equals(country1));
+        assertFalse(country1.equals(cityA));
+        assertFalse(cityA.getClass().equals(country1.getClass()));
+        assertNotEquals(country1.getName(), country2.getName());
+        assertTrue(country1.equals(country3));
+        assertEquals(country1.getName(), country3.getName());
+    }
+
     @Test
     public void hashCodeTest() throws Exception{
         assertNotEquals(country1.hashCode(),country2.hashCode());
