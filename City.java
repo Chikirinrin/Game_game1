@@ -75,4 +75,7 @@ public class City implements Comparable<City>
         value -= b;
         return b;
     }
+    public int hashCode(){
+        return 19*name.hashCode();
+    }
 }

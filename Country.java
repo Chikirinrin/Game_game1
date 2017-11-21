@@ -192,5 +192,9 @@ public class Country
         }
         return position(from);
     }
+
+    public int hashCode(){
+        return 17*name.hashCode();
+    }
 }
 
