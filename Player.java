@@ -1,3 +1,5 @@
+import javafx.geometry.Pos;
+
 import java.awt.Color;
 import java.util.HashMap;
 import java.util.Set;
@@ -24,6 +26,11 @@ public class Player implements Comparable<Player> {
 	public Player(Position pos) {
 		this.pos = pos;
 		money = 0;
+	}
+
+	public Player(Position pos, int money) {
+		this.pos = pos;
+		this.money = money;
 	}
 	
 	/**

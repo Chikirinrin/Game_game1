@@ -76,6 +76,10 @@ public class City implements Comparable<City>
         return b;
     }
 
+    public int arrive(Player p) {
+        return arrive();
+    }
+
     /**
      *
      * @return

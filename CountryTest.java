@@ -192,13 +192,12 @@ public class CountryTest {
         Map<City, List<Road>> network1 = new HashMap<>();
 
         Country country = new Country("Country123",network1);
-        cities1.add(cityA);
         cities1.add(cityB);
+        cities1.add(cityA);
         cities1.add(cityC);
         cities1.add(cityD);
         assertEquals(country1.getCities(), cities1);
         assertEquals(country.getCities(),Collections.emptyList());
-
     }
     @Test
     public void getCity() {
