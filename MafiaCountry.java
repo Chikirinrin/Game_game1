@@ -16,10 +16,9 @@ public class MafiaCountry extends Country {
     @Override
     public int bonus(int value){
        int n = getGame().getRandom().nextInt(100);
-       if(getGame().getSettings().getRisk()> n){
+       if(getGame().getSettings().getRisk() > n){
            return -getGame().getLoss();
-       }
-       else{
+       }else{
            return super.bonus(value);
        }
     }

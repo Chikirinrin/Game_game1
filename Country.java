@@ -216,7 +216,7 @@ public class Country
             return false;
         }
         Country other = (Country)otherCo;
-        return name.equals(other.name);
+        return name.equals(other.getName());
     }
 }
 

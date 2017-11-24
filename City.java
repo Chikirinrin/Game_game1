@@ -90,7 +90,7 @@ public class City implements Comparable<City>
      * @return
      */
     public int hashCode(){
-        return 19*name.hashCode();
+        return 19*name.hashCode()+13*country.hashCode();
     }
 
     @Override
@@ -111,7 +111,7 @@ public class City implements Comparable<City>
             return false;
         }
         City city = (City) otherC;
-        return name.equals(city.name) && country == city.country;
+        return name.equals(city.getName()) && country.equals(city.getCountry());
     }
 
 

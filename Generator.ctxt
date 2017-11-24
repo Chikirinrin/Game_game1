@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Generator
-comment0.text=\r\n\ Creates\ an\ instance\ of\ NordicTraveller\ based\ on\ a\ String\ representation\ of\ the\ internal\ network.\r\n\ @author\ Nikolaj\ Ignatieff\ Schwartzbach\r\n\ @version\ 1.0.0\r\n
+comment0.text=\r\n\ Creates\ an\ instance\ of\ NordicTraveller\ based\ on\ a\ String\ representation\ of\ the\ internal\ network.\r\n\ @author\ Nikolaj\ Ignatieff\ Schwartzbach\r\n\ @version\ 1.0.0\r\n\r\n
 comment1.params=seed\ filename
 comment1.target=Game\ generateGame(int,\ java.lang.String)
 comment2.params=seed\ data
