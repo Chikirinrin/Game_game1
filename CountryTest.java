@@ -129,6 +129,7 @@ public class CountryTest {
         List<Road> roads2 = country1.getRoads(cityB);
         List<Road> roads3 = country2.getRoads(cityF);
         List<Road> roads4 = country2.getRoads(cityG);
+
         //tester når begge byer ligger i samme land.
         roads1.add(new Road(cityA, cityB, 4));
         roads2.add(new Road(cityB, cityA,4));

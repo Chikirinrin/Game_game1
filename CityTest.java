@@ -9,8 +9,8 @@ import static org.junit.Assert.*;
 
 public class CityTest {
     private Game game;
-    private Country country1, country2;
-    private City cityA, cityB, cityC, cityD, cityF;
+    private Country country1, country2,country3;
+    private City cityA, cityB, cityC, cityD, cityF, cityG;
 
     @Before
     public void setUp() throws Exception {
@@ -18,12 +18,15 @@ public class CityTest {
         game.getRandom().setSeed(0);
         Map<City, List<Road>> network1 = new HashMap<>();
         Map<City, List<Road>> network2 = new HashMap<>();
+        Map<City,List<Road>> network3 = new HashMap<>();
 
         // Create countries
         country1 = new Country("Country 1", network1);
         country2 = new Country("Country 2", network2);
+        country3 = new MafiaCountry("Country 3", network3);
         country1.setGame(game);
         country2.setGame(game);
+        country3.setGame(game);
 
         // Create Cities
         cityA = new City("City A", 80, country1);
@@ -31,6 +34,7 @@ public class CityTest {
         cityC = new City("City C", 40, country1);
         cityD = new City("City D", 100, country1);
         cityF = new City("City A",90, country1);
+        cityG = new City("City G", 80, country3);
 
     }
 
@@ -83,14 +87,29 @@ public class CityTest {
 
     @Test
     public void arrive() throws Exception {
-        for(int i = 0; i<1000 ; i++){       // Try different seeds
+        for(int i = 0; i<1000 ; i++) {       // Try different seeds
             game.getRandom().setSeed(i);    // Set seed
             int bonus = country1.bonus(80); // Remember bonus
             game.getRandom().setSeed(i);    // Reset seed
             int arrive = cityA.arrive();    // Same bonus
             assertEquals(arrive, bonus);
-            assertEquals(cityA.getValue(), 80-bonus);
+            assertEquals(cityA.getValue(), 80 - bonus);
             cityA.reset();
+
+
+            game.getRandom().setSeed(i);    // Try different seeds.
+            int mafiaBonus = country3.bonus(80); //Set seed.
+            game.getRandom().setSeed(i);    // Remember bonus.
+            int mafiaArrive = cityG.arrive();   //Reset seed.
+            assertEquals(mafiaArrive, mafiaBonus); //Same bonus.
+
+            if (mafiaBonus < 0) {
+                assertEquals(cityG.getValue(), 80);
+
+            } else {
+                assertEquals(cityG.getValue(), 80 - mafiaBonus);
+            }
+            cityG.reset();
         }
     }
 

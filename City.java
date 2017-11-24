@@ -72,8 +72,13 @@ public class City implements Comparable<City>
      */
     public int arrive(){
         int b = country.bonus(value);
-        value -= b;
-        return b;
+        if(b>0) {
+            value -= b;
+            return b;
+        }
+        else{
+            return b;
+        }
     }
 
     public int arrive(Player p) {
