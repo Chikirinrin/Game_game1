@@ -17,7 +17,6 @@ import java.io.PrintWriter;
 
 public class Tester
 {
-    
     public static void main(String[] args){
         try{
             PrintWriter pw = new PrintWriter("test-result.dat","windows-1252");
@@ -30,7 +29,7 @@ public class Tester
             pw.close();
         } catch(IOException e){}
     }
-    
+
     /**
      * Tests whether or not this computer game (probably) works.
      * Runs a game with a predetermined seed, and checks if all values match with the expected values.
