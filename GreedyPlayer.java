@@ -1,5 +1,6 @@
 import java.awt.Color;
-import java.util.*;
+import java.util.List;
+import java.util.Set;
 
 /**
  * An AI player which greedily chooses its path at each city (looks only one city ahead).
@@ -18,37 +19,33 @@ public class GreedyPlayer extends Player {
 	}
 	
 	@Override
-	public void step() {
+	public void step(){
 		super.step();
-
-		//If has arrived, determine next city.
-		if(getPosition().hasArrived()) {
+		if(getPosition().hasArrived()){
 			City city = getPosition().getTo();
 			List<Road> roads = getCountry().getRoads(city);
-
-			//Find best city (findBest algorithm template)
 			double best = 0;
 			City bestCity = null;
-			for(Road road : roads) {
+			for(Road road : roads){
 				double value = road.getTo().getValue() / (double) road.getLength();
-				if(value > best) {
+				if(value > best){
 					bestCity = road.getTo();
 					best = value;
 				}
+				
 			}
-			if(bestCity!=null) {
+			if(bestCity!=null)
 				setPosition(getCountry().readyToTravel(city, bestCity));
-			}
 		}
 	}
 
 	@Override
-	public String getName() {
+	public String getName(){
 		return "Greedy Player";
 	}
 	
 	@Override
-	public Color getColor() {
+	public Color getColor(){
 		return Color.ORANGE;
 	}
 }

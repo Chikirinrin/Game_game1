@@ -77,7 +77,7 @@ public class MafiaCountryTest {
 
     @Test
     public void bonus() throws Exception {
-
+        country3.getGame().getSettings().setMinMaxRobbery(10,50);
             for(int seed = 0; seed < 1000; seed++){
                 game.getRandom().setSeed(seed);
                 int robs = 0;

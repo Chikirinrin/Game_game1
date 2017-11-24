@@ -1,4 +1,9 @@
-import java.awt.*;
+import javafx.geometry.Pos;
+
+import java.awt.Color;
+import java.util.HashMap;
+import java.util.Set;
+import java.util.Stack;
 
 /**
  * A Player which is controlled by the GUI.

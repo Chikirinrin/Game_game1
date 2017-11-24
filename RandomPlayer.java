@@ -1,5 +1,6 @@
 import java.awt.Color;
-import java.util.*;
+import java.util.List;
+import java.util.Set;
 
 /**
  * An AI player which randomly chooses its path.
@@ -18,30 +19,27 @@ public class RandomPlayer extends Player {
 	}
 	
 	@Override
-	public void step() {
+	public void step(){
 		super.step();
-
-		//Determine new city when this player arrives
-		if(getPosition().hasArrived()) {
+		if(getPosition().hasArrived()){
 			City city = getPosition().getTo();
 			List<Road> roads = getCountry().getRoads(city);
 			int random = getCountry().getGame().getRandom().nextInt(roads.size());
 			int i=0;
-			for(Road road : roads) {
-				if(i++==random) {
+			for(Road road : roads)
+				if(i++==random){
 					setPosition(getCountry().readyToTravel(city, road.getTo()));
 				}
-			}
 		}
 	}
 
 	@Override
-	public String getName() {
+	public String getName(){
 		return "Random Player";
 	}
 	
 	@Override
-	public Color getColor() {
+	public Color getColor(){
 		return Color.MAGENTA;
 	}
 }
