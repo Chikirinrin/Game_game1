@@ -74,11 +74,11 @@ public class BorderCityTest {
             Player player = new Player(new Position(cityE, cityC, 0), 250);
             game.getRandom().setSeed(i);
             int bonus = country1.bonus(40);
-            double toll = ((player.getCountry().getGame().getSettings().getTollToBePaid()/100)*player.getMoney());
+            int toll = ((player.getCountry().getGame().getSettings().getTollToBePaid()* player.getMoney()/100));
             game.getRandom().setSeed(i);
             int arrive = cityC.arrive(player);
-            assertEquals(arrive, bonus - (int)toll);
-            assertEquals(cityC.getValue(), 40 + (int)toll-bonus);
+            assertEquals(arrive, bonus - toll);
+            assertEquals(cityC.getValue(), 40 + toll-bonus);
             cityC.reset();
         }
     }

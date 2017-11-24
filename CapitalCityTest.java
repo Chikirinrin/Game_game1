@@ -75,11 +75,11 @@ public class CapitalCityTest {
             game.getRandom().setSeed(i);
             int bonus = country2.bonus(50);
             int toll = (game.getSettings().getTollToBePaid() * player.getMoney()) / 100;
-            int funMoney = player.getCountry().getGame().getRandom().nextInt(player.getMoney()+1);
+            int funMoney = player.getCountry().getGame().getRandom().nextInt(player.getMoney()- toll + bonus +1);
             game.getRandom().setSeed(i);
             int arrive = cityE.arrive(player);
             assertEquals(arrive, bonus - toll - funMoney);
-            assertEquals(cityE.getValue(), 50-bonus + toll + funMoney);
+            assertEquals(cityE.getValue(), 50 - bonus + toll + funMoney);
             cityE.reset();
         }
     }
@@ -90,7 +90,7 @@ public class CapitalCityTest {
             Player player = new Player(new Position(cityF, cityE, 0), 250);
             game.getRandom().setSeed(i);
             int bonus = country2.bonus(50);
-            int funMoney = player.getCountry().getGame().getRandom().nextInt(player.getMoney()+1);
+            int funMoney = player.getCountry().getGame().getRandom().nextInt(player.getMoney()+bonus+1);
             game.getRandom().setSeed(i);
             int arrive = cityE.arrive(player);
             assertEquals(arrive, bonus-funMoney);

@@ -90,7 +90,7 @@ public class City implements Comparable<City>
      * @return
      */
     public int hashCode(){
-        return 19*name.hashCode()+13*country.hashCode();
+        return 19*name.hashCode();
     }
 
     @Override
