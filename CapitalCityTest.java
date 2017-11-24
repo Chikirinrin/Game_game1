@@ -8,10 +8,11 @@ import java.util.Map;
 
 import static org.junit.Assert.*;
 
-public class BorderCityTest {
+public class CapitalCityTest {
+
     private Game game;
     private Country country1, country2;
-    private BorderCity cityA, cityB, cityC, cityD, cityE, cityF, cityG;
+    private City cityA, cityB, cityC, cityD, cityE, cityF, cityG;
 
     @Before
     public void setUp() {
@@ -27,14 +28,13 @@ public class BorderCityTest {
         country2.setGame(game);
 
         // Create Cities
-        cityA = new BorderCity("City A", 80, country1);
-        cityB = new BorderCity("City B", 60, country1);
-        cityC = new BorderCity("City C", 40, country1);
-        cityD = new BorderCity("City D", 100, country1);
-        cityE = new BorderCity("City E", 50, country2);
-        cityF = new BorderCity("City F", 30, country2);
-        cityG = new BorderCity("City G", 70, country2);
-
+        cityA = new City("City A", 80, country1);
+        cityB = new City("City B", 60, country1);
+        cityC = new City("City C", 40, country1);
+        cityD = new CapitalCity("City D", 100, country1);
+        cityE = new CapitalCity("City E", 50, country2);
+        cityF = new City("City F", 90, country2);
+        cityG = new City("City G", 70, country2);
 
         // Create road lists
         List<Road> roadsA = new ArrayList<Road>(),
@@ -71,30 +71,32 @@ public class BorderCityTest {
     @Test
     public void arrive() throws Exception {
         for(int i =0; i<1000;i++) {
-            Player player = new Player(new Position(cityE, cityC, 0), 250);
+            Player player = new Player(new Position(cityA, cityE, 0), 250);
             game.getRandom().setSeed(i);
-            int bonus = country1.bonus(40);
+            int bonus = country2.bonus(50);
             int toll = (game.getSettings().getTollToBePaid() * player.getMoney()) / 100;
+            int funMoney = player.getCountry().getGame().getRandom().nextInt(player.getMoney()+1);
             game.getRandom().setSeed(i);
-            int arrive = cityC.arrive(player);
-            assertEquals(arrive, bonus - toll);
-            assertEquals(cityC.getValue(), 40 - bonus + toll);
-            cityC.reset();
+            int arrive = cityE.arrive(player);
+            assertEquals(arrive, bonus - toll - funMoney);
+            assertEquals(cityE.getValue(), 50-bonus + toll + funMoney);
+            cityE.reset();
         }
     }
 
     @Test
     public void arriveFromSameCountry() throws Exception {
-        for(int i =0; i<1000;i++){
-            Player player = new Player(new Position(cityA,cityC,0),250);
+        for(int i =0; i<1000;i++) {
+            Player player = new Player(new Position(cityF, cityE, 0), 250);
             game.getRandom().setSeed(i);
-            int bonus = country1.bonus(40);
+            int bonus = country2.bonus(50);
+            int funMoney = player.getCountry().getGame().getRandom().nextInt(player.getMoney()+1);
             game.getRandom().setSeed(i);
-            int arrive = cityC.arrive(player);
-            assertEquals(arrive,bonus);
-            assertEquals(cityC.getValue(),40-bonus);
-            cityC.reset();
-            }
+            int arrive = cityE.arrive(player);
+            assertEquals(arrive, bonus-funMoney);
+            assertEquals(cityE.getValue(), 50-bonus+funMoney);
+            cityE.reset();
         }
     }
 
+}
